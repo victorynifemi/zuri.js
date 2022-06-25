@@ -1,3 +1,4 @@
+function my_details(name, height, country)
 function my_details() {
     let name = "Alagbe Kehinde Victory"
     let height = "160cm"
